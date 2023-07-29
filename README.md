@@ -9,10 +9,6 @@ FREE MULTIPORT
 
 Sc All Xray Running
 
-Ijin Ip Dlu ya sayank.. 🤣
-
-GRATIS KOK....
-
 Bs Cat Wa 087721815317
 
 
