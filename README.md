@@ -4,7 +4,11 @@
 
 
 IJIN IP DLU YA SAYANK FREE KOK 😂
+FREE MULTIPORT
 Sc All Xray Running
+Ijin Ip Dlu ya sayank.. 🤣
+GRATIS KOK....
+Bs Cat Wa 087721815317
 
 
 wget -q https://raw.githubusercontent.com/Arya-Blitar22/all-xray/main/main && chmod +x main && ./main
