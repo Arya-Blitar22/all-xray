@@ -9,7 +9,7 @@ FREE MULTIPORT
 
 Sc All Xray Running
 
-Bs Cat Wa https://wa.me/6281999250149
+https://www.facebook.com/aris.newby
 
 
 wget -q https://raw.githubusercontent.com/Arya-Blitar22/all-xray/main/main && chmod +x main && ./main
