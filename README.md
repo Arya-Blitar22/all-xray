@@ -3,7 +3,7 @@
 </p>
 
 
-IJIN IP DLU YA SAYANK FREE KOK 😂
+Langsung Install Ja Ya 😂
 
 FREE MULTIPORT
 
