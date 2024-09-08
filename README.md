@@ -9,9 +9,6 @@ FREE MULTIPORT
 
 Sc All Xray Running
 
-https://www.facebook.com/aris.newby
-https://wa.me/6281931615811
-
 wget -q https://raw.githubusercontent.com/Arya-Blitar22/all-xray/main/main && chmod +x main && ./main
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/all-xray/main/scp1.png)
