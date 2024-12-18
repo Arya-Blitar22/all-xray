@@ -8,7 +8,8 @@ Langsung Install Ja Ya 😂
 FREE MULTIPORT
 
 Sc All Xray Running
-Wajib Domain Sendiri
+
+## Wajib Domain Sendiri
 
 ````
 wget -q https://raw.githubusercontent.com/Arya-Blitar22/all-xray/main/main && chmod +x main && ./main
